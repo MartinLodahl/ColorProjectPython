@@ -4,5 +4,5 @@ After some general debate within the group we concluded two possible fun project
 
 
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.5552&rep=rep1&type=pdf# ColorProjectPython
-# ColorProjectPython
-# ColorProjectPython
+
+
