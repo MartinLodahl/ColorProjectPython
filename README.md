@@ -20,3 +20,18 @@ Third and last step is the fun part. Our expectation when going through second s
 
 ##Disclaimer
 We are very well aware that research behind this subject is factor ten larger then our little four man army and of course there is alot of factors that is no taking into considerations in this project, an example being age. However, the thing that really intrigued us and got us motivated on this project was the fact that even though we are this small group of four guys from a university, with the right resources this could be a potential business model. Picture if you'd be able to further develope on this, to a point where it becomes a layer on operating systems. A programme, designed to gather enough information through a small process to calculate and state your individual RGB values, automatically processing everything from ads to images and forcing upon them your predetermined RGB values. This would expectant enhance the perfomance of the colour-blind and more important the comfortability of performing in higher stake jobs. 
+
+#How to run the program 
+
+This requires you to have jupyter notebook and related imports set up on your computer, but once you have got these set up. 
+You'll need to run the 'Untitled.ipynb' interactive python code in Jupyter Notebook. When the program is running in Jupyter Notebook, you shall run the first cell, and the program will be going on by itself below the cell, where you'll have an output off a picture, and you'll need to answer in the input field, if you see the color red or not. 
+
+##Imports needed. 
+
+random 
+matplotlib.pyplot 
+numpy 
+nbformat
+nbconvert.preprocessors 
+numpy 
+cv2
